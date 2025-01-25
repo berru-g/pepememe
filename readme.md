@@ -12,3 +12,11 @@
 
 ##### Other bot 
 [BtcmG-2019](https://github.com/berru-g/Bitcoin-Miner-game-Bot)
+
+##### Other Good Plan
+[Mysterium-network](https://savoir-relatif-et-absolu.netlify.app/mysterium-network)
+
+[Publish0x.com](https://savoir-relatif-et-absolu.netlify.app/publish0x-earn-token)
+
+#### For donation
+[USDC / BTC or Paypal](https://fiboscope.netlify.app/donation)
