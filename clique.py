@@ -39,17 +39,17 @@ while True:
                 if remaining % 10 == 0 or remaining <= 5:  
                     print(f" {remaining} s")
                 time.sleep(1)
-    print("⚙️ ➡️")
+    print("⚙️ 🔁")
     winsound.Beep(200, 200)
     winsound.Beep(1000, 200)
     winsound.Beep(1200, 200)
     winsound.Beep(1000, 200)
     winsound.Beep(440, 200)
      
-    print("⏸️ 300s")
+    print("Energy")
     for remaining in range(300, 0, -1):  # 5 minutes = 300 secondes
         if remaining % 10 == 0 or remaining <= 5:  # Afficher toutes les 10 secondes et les 5 dernières secondes
-            print(f" {remaining} ...")
+            print(f" {remaining} ")
         time.sleep(1)
 
 print("Programme terminé.")  # Ne sera jamais atteint sauf si interrompu manuellement
