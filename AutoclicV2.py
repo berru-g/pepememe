@@ -52,6 +52,7 @@ while True:
     
     # Pause de 5 minutes avant la prochaine boucle
     print("\rRechargement... Nouvelle boucle dans ", end="")
+    print("Si tu utilise mon outil tu peut me faire un don 😊 USDC / BTC ou Paypal ➡️ https://fiboscope.netlify.app/donation")
     for remaining in range(300, 0, -1):  # 300 secondes = 5 minutes
         print(f"\r🔄 Nouvelle boucle dans {remaining} secondes... ", end="")
         time.sleep(1)
