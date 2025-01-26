@@ -22,7 +22,7 @@ print("Autoclick faster than my grandMa who has Parkinson ! ")
 while True:
 
     for session in range(7):
-        print(f"🐸 Session {session + 1} ---")
+        print(f"🐸 Session {session + 1} ")
         
         for click in range(1, 101):
             pyautogui.click(319, 813)# use coordonate
@@ -37,7 +37,7 @@ while True:
             print("⏸️ ")
             for remaining in range(30, 0, -1):
                 if remaining % 10 == 0 or remaining <= 5:  
-                    print(f" {remaining} s")
+                    print(f" {remaining} ")
                 time.sleep(1)
     print("⚙️ 🔁")
     winsound.Beep(200, 200)
@@ -46,7 +46,7 @@ while True:
     winsound.Beep(1000, 200)
     winsound.Beep(440, 200)
      
-    print("Energy")
+    print("Rechargement...")
     for remaining in range(300, 0, -1):  # 5 minutes = 300 secondes
         if remaining % 10 == 0 or remaining <= 5:  # Afficher toutes les 10 secondes et les 5 dernières secondes
             print(f" {remaining} ")

@@ -1,4 +1,4 @@
-## Clicker for PepeMeme.io coin
+## AutoClic for PepeMeme.io in Telegram
 
 ### Code after night
 
@@ -9,7 +9,7 @@
 
 <img width="960" alt="matin" src="https://github.com/user-attachments/assets/8c9e9aa8-688b-4d43-adb6-5a940647b828" />
 
-#### powered by Telegram
+#### powered by Telegram ⬇️
 [Join pepememe Tap to Earn in telegram](https://t.me/pepememe?start=r-7610823899)
 
 
