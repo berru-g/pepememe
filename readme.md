@@ -9,11 +9,16 @@
 
 ##### TWO
 
-        [Join pepememe Tap to Earn in telegram](https://t.me/pepememe?start=r-7610823899)
-        open app 'Pepe Meme'
-        use the **coordonateCMD.py** 
-        write your coordonate in *pyautogui.click(000, 000)* line 31 in **AutoclicV2.py**
-        run and earn
+ - [Join pepememe Tap to Earn in telegram](https://t.me/pepememe?start=r-7610823899)
+
+ - open app 'Pepe Meme'
+
+ - use the **coordonateCMD.py** 
+
+ - write your coordonate in *pyautogui.click(000, 000)* line 31 in **AutoclicV2.py**
+
+ - run and earn
+
 
 ### I Code after sleep this **AutoclicV1.py**
 
